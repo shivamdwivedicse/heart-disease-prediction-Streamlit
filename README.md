@@ -14,10 +14,25 @@ This project is an end-to-end Machine Learning web application built using **Pyt
 - Scikit-learn
 - Streamlit
 
+## 📂 Project Structure
+heart-disease-prediction-streamlit/
+│
+├── app.py
+├── KNN_heart.pkl
+├── scaler.pkl
+├── columns.pkl
+├── requirements.txt
+└── README.md
+
+This project is for educational purposes and demonstrates an end-to-end ML workflow.
+
+📊 Model Details:-
+1.KNN for final prediction.
+2.StandardScaler for feature scaling.
+3.One-hot encoding for categorical variables.
 
 ## ▶️ How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-This project is for educational purposes and demonstrates an end-to-end ML workflow.
