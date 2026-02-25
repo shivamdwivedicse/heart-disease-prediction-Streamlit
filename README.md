@@ -1,6 +1,8 @@
 # heart-disease-prediction-Streamlit
 This project is an end-to-end Machine Learning web application built using **Python and Streamlit** to predict the risk of heart disease based on patient health data.
 
+Model training notebook available here:- Heart_disease.ipynb
+
 ## 🚀 Features
 - Data preprocessing (encoding & scaling)
 - Machine Learning models: KNN 
