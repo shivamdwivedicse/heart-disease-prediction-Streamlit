@@ -3,6 +3,8 @@ This project is an end-to-end Machine Learning web application built using **Pyt
 
 Model training notebook available here:- https://github.com/shivamdwivedicse/Machine-Learning-Repo/blob/main/Heart_disease.ipynb
 
+Dataset:- https://github.com/shivamdwivedicse/Machine-Learning-Repo/blob/main/heart.csv
+
 ## 🚀 Features
 - Data preprocessing (encoding & scaling)
 - Machine Learning models: KNN 
